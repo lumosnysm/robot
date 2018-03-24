@@ -1,3 +1,4 @@
 # robot
-cd /
+cd ~/
+
 ./run_gazebo.sh
